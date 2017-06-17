@@ -1,2 +1,0 @@
-# GitTestRepo
-GitTestRepoDesc
